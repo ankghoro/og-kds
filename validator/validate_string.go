@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/h4lim/og-kds/http"
+	"github.com/ankghoro/og-kds/http"
 )
 
 type StringValidator interface {

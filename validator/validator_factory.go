@@ -1,7 +1,7 @@
 package validator
 
 import (
-	"github.com/h4lim/og-kds/http"
+	"github.com/ankghoro/og-kds/http"
 )
 
 type Validator interface {

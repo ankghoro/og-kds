@@ -1,4 +1,4 @@
-module github.com/h4lim/og-kds
+module github.com/ankghoro/og-kds
 
 go 1.22
 
@@ -8,7 +8,7 @@ require (
 	github.com/eclipse/paho.mqtt.golang v1.5.0
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.6.0
-	github.com/h4lim/client-party v0.0.0-20240905024143-09de4eda74e5
+	github.com/ankghoro/client-party v0.0.0-20240905024143-09de4eda74e5
 	github.com/hasura/go-graphql-client v0.13.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1

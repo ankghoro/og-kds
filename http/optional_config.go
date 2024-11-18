@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/h4lim/og-kds/infra"
+	"github.com/ankghoro/og-kds/infra"
 )
 
 type OptConfigModel struct {

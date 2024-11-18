@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/h4lim/og-kds/infra"
+	"github.com/ankghoro/og-kds/infra"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

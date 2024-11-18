@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	party "github.com/h4lim/client-party"
+	party "github.com/ankghoro/client-party"
 	"github.com/h4lim/og-kds/infra"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	party "github.com/ankghoro/client-party"
-	"github.com/h4lim/og-kds/infra"
+	"github.com/ankghoro/og-kds/infra"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

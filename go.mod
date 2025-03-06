@@ -5,10 +5,10 @@ go 1.22
 toolchain go1.22.6
 
 require (
+	github.com/ankghoro/client-party v0.0.0-20241118072435-cbad9a0dcef7
 	github.com/eclipse/paho.mqtt.golang v1.5.0
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.6.0
-	github.com/ankghoro/client-party v0.0.0-20240905024143-09de4eda74e5
 	github.com/hasura/go-graphql-client v0.13.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1
